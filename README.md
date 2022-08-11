@@ -1,1 +1,1 @@
-# Search
+This is a python script which asks for a copy path and a paste path and accepts a list of file names through a CSV file. It will search through the copy path's directories and subdirectories and if it finds the file it will copy it to the destination path. It will store the values found in a list that will be displayed once the search is complete. If not found it will store that and display it as well. 
